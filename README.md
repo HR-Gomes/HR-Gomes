@@ -5,7 +5,7 @@
 - 📚 I'm currently studying Computer Science at [ISEC](https://www.isec.pt/PT/Default.aspx), learning amazing subjects and making new friends!
   
 - ⚙ MSc in Mechanical Engineering
-- Main Hobby: Boardgames 🎲
+- 🎲 Always ready to play boardgames
 
 <!--
 **HR-Gomes/HR-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
