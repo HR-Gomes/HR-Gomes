@@ -1,4 +1,10 @@
-## Hi there 👋
+## Welcome 👋
+
+# About me
+
+- 📚 I'm currently studying Computer Science at [ISEC](https://www.isec.pt/PT/Default.aspx), learning amazing subjects and making new friends!
+  
+- ⚙ MSc in Mechanical Engineering
 
 <!--
 **HR-Gomes/HR-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
